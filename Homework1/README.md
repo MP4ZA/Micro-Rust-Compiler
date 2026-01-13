@@ -1,2 +1,17 @@
-# 113-2-NCKU-CompilerHW1
-113 學年度第二學期：國立成功大學資訊工程學系編譯系統課程 Homework 1
+# Lexical Analysis
+
+flex
+scanner
+
+```
+cd Homework1
+```
+
+```
+make judge
+```
+
+> ```
+> Correct/Total problems: 16/16
+> Obtained/Total scores:  120/120
+> ```
